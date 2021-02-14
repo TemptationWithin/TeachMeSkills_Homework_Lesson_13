@@ -44,12 +44,5 @@ public class Main {
         list2.stream().forEach((customer -> System.out.println("Customer: Name: " + customer.getName() +
                 ", age: " + customer.getAge() +
                 ", IP: " + customer.getIp())));
-
-        List<Customer> list3 = new ArrayList<>();
-        list3.add(new Customer("Leonid", "100.104.35.2.5", 40));
-        list3.add(new Customer("Sew", "100.153.23.27.8", 40));
-        list3.add(new Customer("Leonardo", "100.176.88.13.9", 40));
-        list3.add(new Customer("Carol", "100.52.75.5.0", 40));
-        list3.add(new Customer("Clare", "100.185.69.2.1", 40));
     }
 }
