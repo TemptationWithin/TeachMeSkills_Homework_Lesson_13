@@ -1,0 +1,11 @@
+<company>
+	<userList>
+		<customer name =  "Andrew" age = "33" ip = "172.16.255.2"/>
+		<customer name = "John" age = "26" ip = "181.1.25.268"/>
+		<customer name =  "Jack" age = "33" ip = "100.156.2.0"/>
+		<customer name = "Polina" age = "33" ip = "173.16.55.9"/>
+		<customer name = "Katrin" age = "33" ip = "138.82.8.14"/>
+		<customer name = "George" age = "33" ip = "193.26.72.4"/>
+		<customer name = "Bill" age = "33" ip = "184.6.6.3"/>
+	</userList>
+</company>
